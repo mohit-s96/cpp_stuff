@@ -338,3 +338,13 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+bin
+
+HelloWorld.sln
+
+src/HelloWorld.vcxproj
+
+src/HelloWorld.vcxproj.filters
+
+src/HelloWorld.vcxproj.user
